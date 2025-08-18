@@ -9,4 +9,4 @@ if a > b:
 elif a < b:
     print("<")
 else:
-    print("=")
+    print("==")

@@ -5,8 +5,6 @@ arr = []
 for _ in range(9):
     arr.append(list(map(int, input().split())))
 
-print(arr)
-
 max = 0
 for i in range(9):
     for j in range(9):
